@@ -1,4 +1,13 @@
 # Generative Deep Learning
+
+### Alex Notes
+- to make ```pip install -r requirement.txt``` works, the following packages are installed in conda first:
+  - tensorflow
+  - keras
+  - keras-contrib
+  - pyyaml
+- I conda install PyTorch in the same environment for easier translation
+
 ### Teaching Machines to paint, write, compose and play
 
 The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
